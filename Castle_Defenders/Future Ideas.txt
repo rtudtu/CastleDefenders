@@ -1,0 +1,11 @@
+--ranger random arrow shooter
+--knight spiker spinner
+--mage ...
+-money system for buying defenses
+mage right click throw bomb, hold right click, growing bomb
+-zombie spawners on the left, base on the right - random villagers that are spawned
+-Charging abilities- playerMove = false
+mage spawns minions that target closest enemy
+knight shield explodes at end - based on dmg taken
+mage hold right click - bubblez coming out, decelerating and ending zhort
+hold right click,  freeze time
